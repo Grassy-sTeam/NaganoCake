@@ -49,6 +49,7 @@ group :development do
   gem 'spring-watcher-listen', '~> 2.0.0'
   gem 'pry-byebug' #追加gem
   gem 'better_errors'#追加gem
+  gem 'binding_of_caller' #追加
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
